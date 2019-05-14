@@ -1,0 +1,3 @@
+Image done by Bruno Pinaud <bruno.pinaud@u-bordeaux.fr> with Porgy (http://porgy.labri.fr), a visual and interactive graph rewriting framework.
+
+The data file is taken from http://porgy.labri.fr/bio_examples/ (Model_m1_run.tlpx, see "Graphs" tab) with different good and bad visual settings.

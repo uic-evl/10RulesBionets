@@ -1,0 +1,5 @@
+Image done by Bruno Pinaud <bruno.pinaud@u-bordeaux.fr>
+This image has been generated with Tulip (http://tulip.labri.fr) with the actions described in the documentation available here: http://tulip.labri.fr/Documentation/current/tulip-user/html/tutorial_intermediate.html#a-visual-representation-of-the-tulip-directory.
+The image depicts a Unix filesystem (nodes are file/folder and and edge represents a file in a given folder).
+The file rule10.tlpx is the Tulip file used to generate the figure (just rotate the graph as described in the Tulip Documentation).
+
