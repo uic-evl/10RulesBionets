@@ -1,4 +1,4 @@
-# 10SimpleRulesBionetworkFiguresPLOSCompBio
+# Ten Simple Rules to create biological network figures for communication
 Example Code accompanying the “Ten Simple Rules to create biological network figures for communication” PLOS CompBio paper 
 
 As a courtesy, please cite our paper:
